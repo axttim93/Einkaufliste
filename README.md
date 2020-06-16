@@ -7,20 +7,20 @@ E-Mail: xxxx@xxxx.de
 
 ## Kenntnisse:
 
-- Kenntnisse in SQL
+- Kenntnisse in PHP
+- Kenntnisse in Word
+- Kenntnisse in PowerPoint
 - Kenntnisse in Java
 - Kenntnisse in Swift
 - Kenntnisse in Kotlin
 - Kenntnisse in C++
-- Kenntnisse in PHP
-- Kenntnisse in Word
 - Kenntnisse in Excel
-
+- Kenntnisse in SQL
 
 ## SoftwareProjekte:
-- App1 (Im App-Store)
-- App2 (Im App-Store)
-
+- Homepag1
+- App11 (Im Play-Store)
+- App22 (Im PLay-Store)
 
 
 ...
