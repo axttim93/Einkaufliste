@@ -16,11 +16,13 @@ E-Mail: xxxx@xxxx.de
 - Kenntnisse in C++
 - Kenntnisse in Excel
 - Kenntnisse in SQL
+- Kenntnisse in C#
 
 ## SoftwareProjekte:
 - Homepag1
 - App11 (Im Play-Store)
 - App22 (Im PLay-Store)
+- Homepage Firma
 
 
 ...

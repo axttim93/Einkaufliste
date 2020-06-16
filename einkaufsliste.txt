@@ -9,3 +9,4 @@ Lebensmittel:
 - Äpfel
 - Schokomilch
 - Fertigpizza
+- Radler
