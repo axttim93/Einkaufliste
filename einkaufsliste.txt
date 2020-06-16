@@ -1,0 +1,11 @@
+Einkaufsliste:
+
+Technik:
+- Mac Pro (neuestes Modell, 192GB RAM)
+
+Lebensmittel:
+- Lasagne
+- Bananen
+- Äpfel
+- Schokomilch
+- Fertigpizza
